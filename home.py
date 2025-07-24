@@ -11,14 +11,6 @@ st.write('''My name is Andrea Ferral and I am completing my final course in East
 st.write('''I have a seven year old son who keeps me very busy. When I am able to get a few minutes of free time, I enjoy crocheting and reading.
 	My current crochet work-in-progress is a Minecraft blanket for my son.''')
 
-st.subheader('Background')
-
-st.write('''I earned my BS in Chemistry in December of 2007. In 2009, I started working as a purification technician for a biological laboratory in Allentown, PA.
-	Over 15 years with the company, I worked up to Laboratory Manager.  Unfortunately, at the end of 2024, the site was closed, and operations were transferred to a
-	site in Texas.  Luckily, a local supplier (and sometimes competitor) needed a laboratory manager for their Coopersburg, PA site. My previous employer
-	recommended me for the position, and Lampire Biological Laboratories has employed me since late March 2025. I hope to utilize the skills I have learned 
-	in the Data Science program to assist in identifying growth areas for both my site and the company.''')
-
 st.subheader('Project Details')
 st.write('''My project aims to construct a machine learning model for predicting customer-purchased products at Lampire Biological Laboratories’ 
 	Coopersburg, PA, laboratory site. The current accounting and sales tracking software is Traverse, and, historically, it has proven difficult to gain 
